@@ -3,12 +3,11 @@
 // Array of objects containing data for each card
 export const cardsData = [
     {
-        // Cake card data
-        title: 'Cake',
+        // Burger card data
+        title: 'Burger',
         description: 'Ingredients',
-        imgURL: "images/cake.png", // Image URL for the Cake card
-        altImg: 'Cake pic', // ALT text for the Cake image
-        externalURL: 'https://bakefromscratch.com/basic-1-2-3-4-cake/', // Clickable external URL for the Cake card
+        src: "../static/images/burger.jpg", // Image src
+        alt: 'Hamburger with fries', // ALT text
         style: 'max-width: 100%; height: auto;' // Styling for Cake image
     },
     {
