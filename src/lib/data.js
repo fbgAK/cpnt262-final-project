@@ -3,11 +3,11 @@
 // Array of objects containing data for each card
 export const cardsData = [
     {
-        title: 'Hamburger and fries',
-        description: 'Hamburger with crisp french fries',
-        imgURL: '../static/images/burger.jpg',
-        altImg: 'Hamburger and fries',
-        externalURL: '',
+        title: 'Chocolate Cake',
+        description: 'Decadent chocolate cake with rich frosting.',
+        imgURL: 'images/chocolate_cake.jpg',
+        altImg: 'Chocolate Cake',
+        externalURL: 'https://example.com/chocolate-cake',
         style: 'max-width: 100%; height: auto;'
     },
     {
