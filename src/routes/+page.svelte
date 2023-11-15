@@ -1,7 +1,7 @@
 <script>
     import { cardsData } from '$lib/data.js';
-   import Card from '$lib/components/Card.svelte'
-   </script>
+    import Card from '$lib/components/Card.svelte'
+
    <main>
    <h1>Types of Desserts</h1>
     {#each cardsData as card (card.title)}
@@ -10,4 +10,4 @@
     {/if}
     {/each}
    </main>
-
+</script>
