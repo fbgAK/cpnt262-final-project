@@ -5,7 +5,7 @@ export const cardsData = [
     {
         title: 'Chocolate Cake',
         description: 'Decadent chocolate cake with rich frosting.',
-        imgURL: '../static/images/burger.jpg',
+        imgURL: 'images/burger.jpg',
         altImg: 'Chocolate Cake',
         externalURL: 'https://example.com/chocolate-cake',
         style: 'max-width: 100%; height: auto;'
