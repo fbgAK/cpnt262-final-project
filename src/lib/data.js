@@ -5,7 +5,7 @@ export const cardsData = [
     {
         title: 'Air Fryer Fajitas',
         description: 'Sizzling Fajitas!',
-        src: 'images/easy-dinner-ideas-air-fryer-fajitas-1674488607.jpg',
+        imgURL: 'images/easy-dinner-ideas-air-fryer-fajitas-1674488607.jpg',
         altImg: 'Air Fryer Fajitas',
         externalURL: '',
         style: 'max-width: 100%; height: auto;'

@@ -8,7 +8,7 @@
     export let style = 'max-width: 100%; height: auto;';
 </script>
 
-<a href={externalURL}>
+<a href={imgURL}>
     <div class="card" style={style}>
         <h1>{title}</h1>
         <p>{description}</p>
