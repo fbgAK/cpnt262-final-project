@@ -78,3 +78,4 @@ export const cardsData = [
         style: 'max-width: 100%; height: auto;'
     },
 ];
+
