@@ -1,6 +1,7 @@
 <script>
-    import { cardsData } from '$lib/data.js';
+    // import { cardsData } from '$lib/data.js';
     import Card from '$lib/components/Card.svelte'
+    import Gallery from '$'
 
    <main>
    <h1>Types of Desserts</h1>

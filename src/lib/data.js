@@ -3,11 +3,14 @@
 // Array of objects containing data for each card
 export const cardsData = [
     {
+        id: "",
         title: 'Air Fryer Fajitas',
         description: 'Sizzling Fajitas!',
+        detailed_description: "",
         imgURL: 'images/easy-dinner-ideas-air-fryer-fajitas-1674488607.jpg',
+        largeImgURL: "",
         altImg: 'Air Fryer Fajitas',
-        externalURL: '',
+        externalURL: "",
         style: 'max-width: 100%; height: auto;'
     },
     {

@@ -2,8 +2,7 @@
 <script>
     export let title;
     export let description;
-    export let imgURL;
-    export let altImg;
+    export let img;
     export let externalURL;
     export let style = 'max-width: 100%; height: auto;';
 </script>
