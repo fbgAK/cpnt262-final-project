@@ -27,16 +27,17 @@
 <style>
   .card {
     border: 1px solid #ccc;
-    border-radius: 8px;
+    border-radius: 20px;
     padding: 16px;
     margin: 16px;
-    width: px;
+    width: 400px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease-in-out;
   }
 
   .card:hover {
     transform: scale(1.05);
+    background-color: #f9e4b7;
   }
 
   .card-image {
