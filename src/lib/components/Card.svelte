@@ -26,18 +26,23 @@
 
 <style>
   .card {
+    place-content: center;
+    text-align: center;
+    
     border: 1px solid #ccc;
     border-radius: 20px;
     padding: 16px;
     margin: 16px;
-    width: 400px;
+    width: 500px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease-in-out;
+    display: grid;
   }
 
   .card:hover {
     transform: scale(1.05);
     background-color: #f9e4b7;
+    box-shadow: 3px 3px black;
   }
 
   .card-image {
