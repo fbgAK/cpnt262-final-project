@@ -27,7 +27,7 @@
     footer {
         text-align: center;
         background-color: #f9e4b7;
-        padding: 10px 0;
+        padding: 10px;
         position: fixed;
         bottom: 0;
         width: 100%;

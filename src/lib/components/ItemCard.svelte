@@ -15,9 +15,13 @@
 
 
 <style>
-  /* h1{
-    color:blue;
-  } */
+  h1 {
+    color: rgb(75, 41, 9);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
 </style>
 
 
