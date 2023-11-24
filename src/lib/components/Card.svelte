@@ -28,7 +28,7 @@
   .card {
     place-content: center;
     text-align: center;
-    
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     border: 1px solid #ccc;
     border-radius: 20px;
     padding: 16px;
@@ -42,7 +42,7 @@
   .card:hover {
     transform: scale(1.05);
     background-color: #f9e4b7;
-    box-shadow: 3px 3px black;
+    box-shadow: 3px 3px rgb(109, 108, 108);
   }
 
   .card-image {

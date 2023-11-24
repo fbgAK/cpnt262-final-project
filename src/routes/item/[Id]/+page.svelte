@@ -19,6 +19,7 @@
 
 <style>
   h1 {
-    color: rgb(197, 25, 25);
+    color: rgb(194, 106, 23);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 </style>
