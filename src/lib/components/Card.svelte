@@ -51,5 +51,6 @@
     max-width: 300px; /* Set a maximum width to control the size */
     display: block; /* Ensure the image is treated as a block element */
     margin: 0 auto; /* Center the image within its container */
+    border-radius: 10px;
   }
 </style>
