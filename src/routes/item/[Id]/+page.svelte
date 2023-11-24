@@ -26,4 +26,9 @@
   :global(img)  {
     width: 100vh;
   }
+
+  img {
+    width: 100vh;
+    border-radius: 10px;
+  }
 </style>
