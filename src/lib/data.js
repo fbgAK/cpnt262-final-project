@@ -6,8 +6,8 @@ export const cardsData = [
     title: 'Air Fryer Fajitas',
     description: 'Sizzling Fajitas!',
     detailed_description: 'This easy weeknight meal is an easy family fave. These sizzling fajitas will be a hit with the whole family. Cooking them in an air fryer makes cleanup a breeze. (No oil splatters on the stovetop!) Serve with your favorite toppings: We’re partial to queso fresco, pico de gallo, and pickled jalapeños.',
-    imgURL: 'images/easy-dinner-ideas-air-fryer-fajitas-1674488607.jpg',
-    largeImgURL: 'images/easy-dinner-ideas-air-fryer-fajitas-1674488607.jpg',
+    imgURL: '/images/easy-dinner-ideas-air-fryer-fajitas-1674488607.jpg',
+    largeImgURL: '/images/air-fryer-fajitas.jpg',
     altImg: 'Fajitas',
   },
   {
@@ -16,7 +16,7 @@ export const cardsData = [
     description: 'Chicken with delicious veggies',
     detailed_description: 'Here is an easy dinner idea that your whole family is sure to love. It is easy, delicious, healthy, and inexpensive. What more could you need? If you are hungry for takeout, skip the wait (and the delivery fee) and just whip this up. It has got an easy sauce made mostly out of pantry ingredients, is packed with fresh veggies, and the whole thing comes together faster than take-out. If you have not made stir-fry at home before, give this recipe a try and you may not order out again.',
     imgURL: 'images/easy-dinner-ideas-chicken-and-veggies-stir-fry-6452a10aa5c3f.jpg',
-    largeImgURL: '',
+    largeImgURL: 'images/chicken-veggies.jpg',
     altImg: 'Chicken and Veggies',
   },
   {

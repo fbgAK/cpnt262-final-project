@@ -21,6 +21,7 @@
   }
   p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
   }
 </style>
 

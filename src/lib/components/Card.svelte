@@ -7,7 +7,9 @@
   export let detailed_description;
   export let imgURL;
   export let altImg;
-  export let largeImgURL;
+  // export let largeImgURL;
+
+  console.log(imgURL)
 </script>
 
 <a href={`/item/${Id}`}>
@@ -18,14 +20,15 @@
       <p>{detailed_description}</p>
     {/if}
     <img class="card-image" src={imgURL} alt={altImg}>
-    {#if largeImgURL}
+    <!-- {#if largeImgURL}
       <img class="card-image" src={largeImgURL} alt={altImg}>
-    {/if}
+    {/if} -->
   </div>
 </a>
 
 <style>
   .card {
+    text-decoration: none;
     place-content: center;
     text-align: center;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
