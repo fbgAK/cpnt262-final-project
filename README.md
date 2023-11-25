@@ -5,7 +5,7 @@ Final Project - Multi-page Website with Gallery (in-pairs)
 ## Authors: Akash Samra & Sterling Smith
 
 <!-- Deploy site on netlify and insert link below -->
-### [Netlify Site](https://iridescent-cheesecake-b5c54e.netlify.app/)
+### [Netlify Site](https://ornate-douhua-b03e08.netlify.app/)
 
 ### Search Notes
 - Starting the search with "CSS" helped render some helpful documentation
